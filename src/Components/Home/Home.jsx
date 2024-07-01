@@ -32,20 +32,20 @@ const Home = () => {
 
         <div className="homeCard grid">
 
-          <div data-aos='fade-right' data-aos-duration='2000' className="locationDiv">
+          <div className="locationDiv">
             <label htmlFor="location">Location</label>
             <input type="text" placeholder='Dream Destination' />
           </div>
-          <div data-aos='fade-right' data-aos-duration='2500' className="distDiv">
+          <div className="distDiv">
             <label htmlFor="distance">Distance</label>
             <input type="text" placeholder='11/Meters' />
           </div>
-          <div data-aos='fade-right' data-aos-duration='3000' className="priceDiv">
+          <div className="priceDiv">
             <label htmlFor="price">Price</label>
             <input type="text" placeholder='$140-$500' />
           </div>
 
-          <button data-aos='fade-right' data-aos-duration='3500' className="btn">
+          <button className="btn">
             Search
           </button>
         </div>

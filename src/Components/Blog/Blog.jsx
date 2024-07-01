@@ -24,6 +24,12 @@ const Posts = [
     title: 'Beautiful Moroco,let us travel.',
     desc: 'The Kingdom of Moroco is a Muslim country in western North Africa, with coastline on the Alantic Ocean and Mediterranean Sea',
   },
+  {
+    id: 4,
+    postImage: img1,
+    title: 'Beautiful Moroco,let us travel.',
+    desc: 'The Kingdom of Moroco is a Muslim country in western North Africa, with coastline on the Alantic Ocean and Mediterranean Sea',
+  },
 ]
 const Blog = () => {
   return (

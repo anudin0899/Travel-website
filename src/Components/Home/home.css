@@ -67,7 +67,7 @@
 .home .secContainer .homeCard .priceDiv label {
   display: block;
   color: var(--textColor);
-  font-size: 11px;
+  font-size: 12px;
   font-weight: 500;
   padding-bottom: 0.4rem;
 }
